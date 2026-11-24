@@ -1,0 +1,52 @@
+--- 1795527655
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527670
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527686
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527701
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527716
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527731
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527746
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527761
+emi-web-6bdc94488c-bnpvf   2m    34Mi    
+--- 1795527776
+emi-web-6bdc94488c-bnpvf   157m   32Mi    
+emi-web-6bdc94488c-plhrf   47m    26Mi    
+--- 1795527791
+emi-web-6bdc94488c-bnpvf   157m   32Mi    
+emi-web-6bdc94488c-plhrf   47m    26Mi    
+--- 1795527806
+emi-web-6bdc94488c-bnpvf   157m   32Mi    
+emi-web-6bdc94488c-plhrf   47m    26Mi    
+--- 1795527822
+emi-web-6bdc94488c-bnpvf   157m   32Mi    
+emi-web-6bdc94488c-plhrf   47m    26Mi    
+--- 1795527837
+emi-web-6bdc94488c-bnpvf   148m   31Mi    
+emi-web-6bdc94488c-n7g2r   40m    25Mi    
+emi-web-6bdc94488c-plhrf   139m   37Mi    
+--- 1795527852
+emi-web-6bdc94488c-bnpvf   148m   31Mi    
+emi-web-6bdc94488c-n7g2r   40m    25Mi    
+emi-web-6bdc94488c-plhrf   139m   37Mi    
+--- 1795527867
+emi-web-6bdc94488c-bnpvf   148m   31Mi    
+emi-web-6bdc94488c-n7g2r   40m    25Mi    
+emi-web-6bdc94488c-plhrf   139m   37Mi    
+--- 1795527882
+emi-web-6bdc94488c-bnpvf   148m   31Mi    
+emi-web-6bdc94488c-n7g2r   40m    25Mi    
+emi-web-6bdc94488c-plhrf   139m   37Mi    
+--- 1795527897
+emi-web-6bdc94488c-bnpvf   92m    41Mi    
+emi-web-6bdc94488c-n7g2r   91m    26Mi    
+emi-web-6bdc94488c-plhrf   116m   38Mi    
+--- 1795527912
+emi-web-6bdc94488c-bnpvf   92m    41Mi    
+emi-web-6bdc94488c-n7g2r   91m    26Mi    
+emi-web-6bdc94488c-plhrf   116m   38Mi    
